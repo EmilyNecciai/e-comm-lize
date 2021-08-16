@@ -18,7 +18,7 @@ This application, E-Comm-Lize, is an E-commerce app that uses express, sequelize
 
 
 ### Demo 
-[Go to Demo]() (Use `Ctrl + Click` to open the video in a new tab.)
+[Go to Demo](https://drive.google.com/file/d/1A3fG92zMj_Wg9PtJgW-R-bQvOHIKK1M8/view) (Use `Ctrl + Click` to open the video in a new tab.)
 
 
 ## Installation 
